@@ -105,14 +105,4 @@ STRIPE_SECRET_KEY=your_stripe_secret_key
 
 ---
 
-## 👩‍💻 Commit Guidelines
 
-- A minimum of _20 notable commits_ for the client-side code.
-- A minimum of _12 notable commits_ for the server-side code.
-- Follow semantic commit messages, e.g., feat: add user wishlist page or fix: resolve dashboard responsiveness issues.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
